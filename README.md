@@ -8,6 +8,6 @@ Members: Jacob Dolinsky, Cynthia Saving
 3. Created crowdfunding_db database in pgAdmin. 
 
 Schema for Crowdfunding DB
-![crowdfunding_schema](Resources\crowdfunding_schema.png)
+![crowdfunding_schema](Resources/crowdfunding_schema.png)
 
 Ran schema SQL from crowdfunding_db_schema.sql. Imported csv files into category, subcategory, contacts and campaign tables. 
